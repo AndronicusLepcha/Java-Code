@@ -1,5 +1,3 @@
-//Method Overriding and use of super keyword.
-
 import java.util.*;
 class A{
 	void show(){
