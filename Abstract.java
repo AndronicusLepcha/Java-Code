@@ -1,3 +1,4 @@
+#Abstract
 import java.util.*;
 abstract class A{
 	abstract void display();
